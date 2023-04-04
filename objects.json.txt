@@ -1,0 +1,5 @@
+const dict = {
+     "fruits":["orange","mango","apple","watermelon","banana"],
+     "juice":["appy","fruty","slice"],
+     "milkshake":["mango","papaya","sapota","pineapple"]
+}
